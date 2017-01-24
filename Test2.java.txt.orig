@@ -1,0 +1,17 @@
+#test2
+
+D123
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+test 1/23/2017 master
+
+-----D123(m)
+
+=======
+-----D123(m)
+>>>>>>> p.6 change both branches
+=======
+-----D123(m)
+>>>>>>> adba3d846388fdd2bf9fa9437ad3d2668b33aa2a
